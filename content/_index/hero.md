@@ -13,7 +13,7 @@ subtitle = "introducing the felt monsters collection"
   image = "header.jpg"
 
 [asset]
-  image = "logo.jpeg"
+  image = "logo.png"
   width = "500px" # optional - will default to image width
   #height = "150px" # optional - will default to image height
 +++
