@@ -10,14 +10,7 @@ title = "Contact fragment"
 subtitle  = "*not working on demo page*"
 
 # PostURL can be used with backends such as mailout from caddy
-post_url = "https://example.com/mailout" #default: formspree.io
-email = "mail@example.com"
-button = "Send Button" # defaults to theme default
-#netlify = false
-
-# Optional google captcha
-#[recaptcha]
-#  sitekey = ""
+netlify = true
 
 [message]
   #success = "" # defaults to theme default
