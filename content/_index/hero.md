@@ -10,7 +10,7 @@ title = "lt"
 subtitle = "introducing the felt monsters collection"
 
 [header]
-  image = "header.jpg"
+  image = "header.png"
 
 [asset]
   image = "logo.jpeg"
