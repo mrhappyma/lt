@@ -6,10 +6,8 @@ weight = 1100
 #background = "light"
 form_name = "defaultContact"
 
-title = "Contact fragment"
-subtitle  = "*not working on demo page*"
+title = "Contact Us"
 
-# PostURL can be used with backends such as mailout from caddy
 netlify = true
 
 [message]
@@ -25,10 +23,6 @@ netlify = true
   text = "Your Email *"
   #error = "" # defaults to theme default
 
-[fields.phone]
-  text = "Your Phone *"
-  #error = "" # defaults to theme default
-
 [fields.message]
   text = "Your Message *"
   #error = "" # defaults to theme default
@@ -39,6 +33,5 @@ netlify = true
   name = "page"
 
 [[fields.hidden]]
-  name = "someID"
-  value = "example.com"
+  name = "site"
 +++
