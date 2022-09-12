@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "/"
 languageCode = "en-us"
-title = "Okkur - Syna"
+title = "lt - the felt monsters collection"
 theme = "syna"
 enableGitInfo = true
 version = "0.17.3"
@@ -24,8 +24,8 @@ lastmod = ["lastmod", ":git", "date"]
      unsafe = true
 
 [params]
-  name = "Okkur Labs"
-  description = "Open Source Theme for your next project"
+  name = "lt"
+  description = "introducing the felt monsters collections. monsters - made out of felt."
 
   [params.style]
     #background = "secondary"
