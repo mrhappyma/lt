@@ -7,8 +7,8 @@ updates:
       # Check for updates to GitHub Actions every weekday
       interval: "daily"
      
-   - package-ecosystem: "npm"
-     directory: "/"
-     schedule:
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
       # Check for updates to GitHub Actions every weekday
       interval: "daily"
