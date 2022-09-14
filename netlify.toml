@@ -3,7 +3,7 @@
   command = "hugo"
 
 [context.production.environment]
-  HUGO_VERSION = "0.102.3"
+  HUGO_VERSION = "0.76.5"
   HUGO_ENV = "production"
 
 [context.deploy-preview]
