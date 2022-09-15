@@ -34,9 +34,8 @@ lastmod = ["lastmod", ":git", "date"]
   # Assets relative to 'static/'
   [params.custom]
     favicon = "favicon.ico"
-    favicon_ico_sizes = "16x16 32x32"
-    favicon_png = "favicon.png"
-    favicon_svg = "favicon.svg"
+    favicon_png = "images/logo.png"
+    favicon_svg = "images/logo.svg"
 
   # Piwik tracking
   [params.analytics.piwik]
