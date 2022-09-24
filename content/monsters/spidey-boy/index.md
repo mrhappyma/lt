@@ -1,6 +1,7 @@
 +++
 fragment = "content"
 weight = 100
+[[labels]] title = "ultra-rare" icon = "fas fa-star"
 +++
 
 **spider man or whatever we are calling him**
